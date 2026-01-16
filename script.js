@@ -10,8 +10,9 @@ let bbq_step = 1;
 
 
 // Query selectors for all buttons and scooters go here
-
-
+const btn1 = document.querySelector("#pepperoni-button")
+const pepperoni = document.querySelector("#pepperoni-scooter")
+const btn2 = document.querySelector
 
 // Write the function that moves the pepperoni scooter forward
 // Increase the pepperoni position
